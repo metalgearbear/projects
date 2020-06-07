@@ -1,0 +1,13 @@
+Coding project idea: website name? "Bear's Waiting Room"
+Problem to solve: I want one place to go to access the multiple things of the internet I access
+daily to minimize how much clicking I have to do
+Make a website with links to all the sites that I love reading articles or forum posts on
+Maybe make an areamap to my favorite YouTube subscribes I like to watch? 1 square, 4
+quadrants with my Top 4 YouTubers
+A drop down menu to gauge how I'm feeling in the morning and in the evening?
+A form instead?
+
+-----------------------
+Fighting game where you choose a fighter
+Your chosen fighter has a certain % chance against the other fighters for winning your battles
+Out of 3 battles you must win 2 to win the skirmish!
